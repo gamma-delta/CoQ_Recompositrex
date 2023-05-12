@@ -1,0 +1,9 @@
+{
+  "config": {
+    "id": "recompositrex",
+    "title": "Recompositrex",
+    "description": "A logistics-based \"overhaul.\"",
+    "author": "petrak@",
+    "version": "0.1.0"
+  }
+}

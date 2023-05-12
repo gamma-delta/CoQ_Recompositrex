@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<populations>
+  <population Name="Utility 2" Load="Merge">
+
+    <group Name="Items" Style="pickone" Load="merge">
+      <object Weight="10" Number="1" Blueprint="recompositrex_wirekit" />
+    </group>
+  </population>
+</populations>
