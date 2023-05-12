@@ -2,7 +2,7 @@
   "config": {
     "id": "recompositrex",
     "title": "Recompositrex",
-    "description": "A logistics-based \"overhaul.\"",
+    "description": "A logistics-based \"overhaul.\" https://github.com/gamma-delta/CoQ_Recompositrex",
     "author": "petrak@",
     "version": "0.1.0"
   }
